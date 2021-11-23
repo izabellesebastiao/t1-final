@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1637623449 source:c:\users\angelo\documents\programaçao 2\t1\pessoa.cpp
+	"pessoa.hpp"
+
+1637596112 c:\users\angelo\documents\programaçao 2\t1\pessoa.hpp
+	<iostream>
+	<vector>
+	<fstream>
+	<stdio.h>
+	<algorithm>
+
+1637624050 source:c:\users\angelo\documents\programaçao 2\t1\main.cpp
+	"pessoa.hpp"
+
+1637429704 source:c:\users\angelo\documents\programaçao 2\t1\cadastro.cpp
+
